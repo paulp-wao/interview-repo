@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom"
 
 const challenges = [
-  { path: "/search", title: "1. Search", description: "Article search with live API results" },
-  { path: "/notifications", title: "2. Notifications", description: "Toast notification system" },
+  { path: "/notifications", title: "1. Notifications", description: "Toast notification system" },
+  { path: "/search", title: "2. Search", description: "Article search with live API results" },
   { path: "/profile", title: "3. Profile Dashboard", description: "Component rendering & re-render discussion" },
 ]
 
